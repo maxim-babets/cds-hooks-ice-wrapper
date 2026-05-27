@@ -144,10 +144,6 @@ curl -X GET "https://au-core.beda.software/fhir/Patient" \
 
 The application gracefully handles errors from FHIR and ICE services, returning empty results or default values when services are unavailable.
 
-## License
-
-[Specify your license here]
-
 ## Support
 
 For issues and questions, please open an issue on the GitHub repository.
